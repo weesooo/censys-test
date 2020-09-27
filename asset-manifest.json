@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/censys-test/static/css/main.c917aa25.chunk.css",
+    "main.js": "/censys-test/static/js/main.71533ffa.chunk.js",
+    "main.js.map": "/censys-test/static/js/main.71533ffa.chunk.js.map",
+    "runtime-main.js": "/censys-test/static/js/runtime-main.594cce8b.js",
+    "runtime-main.js.map": "/censys-test/static/js/runtime-main.594cce8b.js.map",
+    "static/js/2.d5277731.chunk.js": "/censys-test/static/js/2.d5277731.chunk.js",
+    "static/js/2.d5277731.chunk.js.map": "/censys-test/static/js/2.d5277731.chunk.js.map",
+    "index.html": "/censys-test/index.html",
+    "precache-manifest.5fb7a5f1bdd7fc9f5a28f9e1dbc17e41.js": "/censys-test/precache-manifest.5fb7a5f1bdd7fc9f5a28f9e1dbc17e41.js",
+    "service-worker.js": "/censys-test/service-worker.js",
+    "static/css/main.c917aa25.chunk.css.map": "/censys-test/static/css/main.c917aa25.chunk.css.map",
+    "static/js/2.d5277731.chunk.js.LICENSE.txt": "/censys-test/static/js/2.d5277731.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594cce8b.js",
+    "static/js/2.d5277731.chunk.js",
+    "static/css/main.c917aa25.chunk.css",
+    "static/js/main.71533ffa.chunk.js"
+  ]
+}

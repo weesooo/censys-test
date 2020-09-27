@@ -1,0 +1,36 @@
+.app-header {
+  margin: 0;
+  background-color: #101940;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+
+.search-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  display: block;
+  padding: 7px;
+}
+.search-button {
+  justify-content: space-between;
+  padding: 7px;
+}
+.search-result {
+  display: inline;
+  color: wheat;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.search-result-ip-color {
+  color: chocolate;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: larger;
+}
